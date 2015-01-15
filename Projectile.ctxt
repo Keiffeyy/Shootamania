@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inWorld\ clss
+comment0.target=boolean\ hitOther(boolean,\ java.lang.Class)
+comment0.text=\r\n\ \r\n\ Returns\ true\ if\ it\ hits\ another\ object,\ false\ if\ not\r\n
+comment1.params=amount
+comment1.target=void\ moveProjectile(int)
+comment1.text=\r\n\ \r\n\ Moves\ projectiles\ a\ given\ amount\r\n
+comment2.params=yCoordinate
+comment2.target=boolean\ inWorld(int)
+comment2.text=\r\n\ \r\n\ Returns\ true\ if\ the\ projectile\ is\ within\ the\ boundaries\ of\ the\ world\r\n
+comment3.params=yCoordinate
+comment3.target=boolean\ isAtWorldEdge(int)
+comment3.text=\r\n\ \r\n\ Returns\ true\ if\ the\ projectile\ is\ at\ the\ edge\ of\ the\ world\r\n
+numComments=4

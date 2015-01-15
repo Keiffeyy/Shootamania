@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ amount
+comment0.target=void\ moveHorizontal(int,\ int,\ int)
+comment0.text=\r\n\ \r\n\ Moves\ the\ character\ horizontally\ by\ the\ amount\ given\r\n
+comment1.params=x\ y\ amount
+comment1.target=void\ moveVertical(int,\ int,\ int)
+comment1.text=\r\n\ \r\n\ Moves\ the\ character\ vertically\ by\ the\ amount\ given\r\n
+comment2.params=clss
+comment2.target=boolean\ hitByObject(java.lang.Class)
+comment2.text=\r\n\ \r\n\ Returns\ true\ if\ the\ enemy\ is\ hit\ by\ bullet,\ false\ otherwise\r\n
+comment3.params=range\ clss
+comment3.target=boolean\ isBulletInRange(int,\ java.lang.Class)
+comment3.text=\r\n\ \r\n\ Returns\ true\ if\ a\ bullet\ is\ in\ range,\ not\ allowing\ the\ player\ to\ shoot\ another\ bullet\r\n
+comment4.params=timer\ shootSpeed
+comment4.target=boolean\ enemyShootBullet(int,\ int)
+comment4.text=\r\n\ \r\n\ returns\ true\ if\ the\ plane\ has\ cooled\ down\ enough\ to\ be\ able\ to\ shoot,\ false\ otherwise\r\n
+numComments=5

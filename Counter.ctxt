@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=whichScore
+comment0.target=Counter(boolean)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Make\ the\ image\r\n
+numComments=4

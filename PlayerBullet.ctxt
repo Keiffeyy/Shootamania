@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Moves,\ checks\ it\ it's\ at\ the\ edge\ of\ the\ world,\ removes\ it\ if\ true\r\n\ \r\n
+numComments=1

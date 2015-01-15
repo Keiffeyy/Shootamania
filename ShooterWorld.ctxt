@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShooterWorld()
+comment0.text=\r\n\ Creates\ world\ and\ places\ player,\ enemy,\ background,\ score\ counters,\ and\ instructions\ on\ the\ screen\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \r\n\ Will\ Spawn\ another\ enemy\ once\ there\ are\ none\ left\ on\ screen\r\n
+comment2.params=
+comment2.target=void\ checkNumEnemies()
+comment2.text=\r\n\ \r\n\ Checks\ if\ there\ are\ enemies\ on\ screen,\ if\ not,\ another\ one\ will\ spawn\r\n
+comment3.params=
+comment3.target=void\ spawnBoss()
+comment3.text=\r\n\ \r\n\ Checks\ if\ 20\ enemies\ have\ been\ killed,\ spawns\ boss\ if\ true\r\n
+numComments=4

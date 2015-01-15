@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moving,\ shooting,\ dying\r\n\ \r\n
+comment2.params=x\ y
+comment2.target=void\ shootBullet(int,\ int)
+comment2.text=\r\n\ \r\n\ Shoots\ a\ bullet\ with\ a\ speed\ given\ from\ enemy's\ location\r\n
+comment3.params=
+comment3.target=void\ dropPowerUp()
+comment3.text=\r\n\ \r\n\ Drops\ a\ power\ up\ at\ enemy's\ location\r\n
+comment4.params=
+comment4.target=void\ boundaries()
+comment4.text=\r\n\ \r\n\ Keeps\ enemy\ within\ certain\ boundaries,\ boundaries\ are\ (10\ -\ 390,\ 20\ -\ moveForwardBy)\ \ \r\n
+comment5.params=
+comment5.target=void\ die()
+comment5.text=\r\n\ \r\n\ Actions\ to\ be\ performed\ upon\ death\r\n
+comment6.params=
+comment6.target=void\ timer()
+comment6.text=\r\n\ \r\n\ Adds\ to\ the\ timer\ upon\ each\ Greenfoot\ frame\r\n
+numComments=7
